@@ -7,8 +7,7 @@ I propose the following project for RadicalxChange Colorado's first working grou
 3) Grow the reading group sustainably by rewarding the best contributors financially. 
 
 # Call for contributors
-We will need help with marketing, design, coding, and much more to do this well. Email [me]() to find a way to help!
-
+We will need help with marketing, design, coding, and much more to do this well. Reach out in the RxC discord or email me (dlazzeri1@gmail.com) for ideas of how to help. 
 # Details
 The goal of this project is to increase the awareness and understanding of the ideas surrounding RadicalxChange. These ideas are not always intuitive, and they take some work to become comfortable. These ideas are about social impact, and we need as many perspectives to understand them and weigh in on their potential benefits as possible. The reading group will itself be useful for simply coordinating our collective attention capital towards important sources of ideas. Some examples we'd begin with are the blog posts from the RadicalxChange site, the Radical Markets book, and more. 
 
