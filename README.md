@@ -4,7 +4,7 @@ I propose the following project for RadicalxChange Colorado's first working grou
 # tl;dr / Executive Summary
 1) Begin an RxC reading group using [polis](https://pol.is/home) for online discussions of readings.
 2) Identify a metric for the most nuanced or useful contributions in these polis discussions. 
-3) Grow the reading group sustainably by rewarding the best contributors financially, possibly with [PoolTogether's](https://pooltogether.com/). 
+3) Grow the reading group sustainably by rewarding the best contributors financially, possibly with [PoolTogether](https://pooltogether.com/). 
 
 # Call for contributors
 We will need help with marketing, design, coding, and much more to do this well. Reach out in the RxC discord or email me (dlazzeri1@gmail.com) for ideas of how to help. 
